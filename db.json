@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id":1,
+      "title": "Lizard",
+      "description": "A description"
+    },
+    {
+      "id":2,
+      "title": "Lizard",
+      "description": "A description"
+    }
+  ]
+}
